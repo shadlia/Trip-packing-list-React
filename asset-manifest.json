@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trip-packing-list-React/static/css/main.04eb1b43.css",
+    "main.js": "/Trip-packing-list-React/static/js/main.eaf8fa0c.js",
+    "index.html": "/Trip-packing-list-React/index.html",
+    "main.04eb1b43.css.map": "/Trip-packing-list-React/static/css/main.04eb1b43.css.map",
+    "main.eaf8fa0c.js.map": "/Trip-packing-list-React/static/js/main.eaf8fa0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04eb1b43.css",
+    "static/js/main.eaf8fa0c.js"
+  ]
+}
