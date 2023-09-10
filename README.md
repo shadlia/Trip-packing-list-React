@@ -19,7 +19,7 @@ Welcome to the Trip List Application! This repository contains the code for a us
 - [React Bootstrap](https://react-bootstrap.github.io/) for responsive design and UI components.
 - CSS for the design 
 - JavaScript for dynamic functionality.
-- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) for storing your trip list locally in your browser. (still working on that)
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) for storing your trip list locally in your browser. (In progress)
 
 ## Getting Started
 
