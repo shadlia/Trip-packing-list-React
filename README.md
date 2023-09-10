@@ -37,6 +37,9 @@ Contributions to improve the application are welcome! If you have ideas for enha
 
 You can see a live demo of the Trip List Application [here](https://shadlia.github.io/Trip-packing-list-React/).
 
+![trip](https://github.com/shadlia/Trip-packing-list-React/assets/74935083/46862546-8688-442b-98a3-97283608ab27)
+
+
 ## Contact
 
 If you have questions or suggestions, please don't hesitate to reach out:
